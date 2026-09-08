@@ -1,0 +1,1 @@
+This project is simply for the sake of my own practice and hands on git
