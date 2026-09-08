@@ -1,1 +1,2 @@
 calculator feature is being developed 
+PROJECT STATUS: CALCULATOR IS READY
